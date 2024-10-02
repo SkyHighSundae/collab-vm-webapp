@@ -63,10 +63,10 @@
 		"kAdminVMButtons_GhostTurnOn": "Ghost Turn (On)",
 		"kAdminVMButtons_GhostTurnOff": "Ghost Turn (Off)",
 
-		"kAdminVMButtons_Ban": "Ban",
+		"kAdminVMButtons_Ban": "Ban IP",
 		"kAdminVMButtons_Kick": "Kick",
 		"kAdminVMButtons_TempMute": "Temporary Mute",
-		"kAdminVMButtons_IndefMute": "Indefinite Mute",
+		"kAdminVMButtons_IndefMute": "Endless Mute",
 		"kAdminVMButtons_Unmute": "Unmute",
 		"kAdminVMButtons_GetIP": "Get IP",
 
