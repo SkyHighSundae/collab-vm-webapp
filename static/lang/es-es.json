@@ -51,7 +51,7 @@
 		"kVMButtons_VoteForReset": "Votar por reiniciar",
 		"kVMButtons_Screenshot": "Captura de pantalla",
 
-		"kQEMUMonitor": "Monitor QEMU",
+		"kQEMUMonitor": "Console",
 		"kAdminVMButtons_PassVote": "Aprobar voto",
 		"kAdminVMButtons_CancelVote": "Cancelar voto",
 
